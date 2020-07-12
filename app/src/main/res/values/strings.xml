@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PayTM Assignment</string>
+    <string name="ok">OK</string>
+    <string name="check_connection">Please check internet connection.</string>
+    <string name="download">Downloading…</string>
+    <string name="no_item_avail">No Item avail.</string>
+    <string name="transition">sharedtransation</string>
+    <string name="description_n_s">Description \n  %s</string>
+    <string name="repo_url_s">Venue Name : %s</string>
+    <string name="user_type_s">PageId : %d</string>
+    <string name="tag">Modal : %s</string>
+</resources>
